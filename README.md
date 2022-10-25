@@ -15,6 +15,12 @@ This repository contains extracts of notebooks and sample datasets that I use on
 
 ## Installation instructions
 
+### Online
+I recommend cloning the repository and runnng the notebooks on your computer. However, you can run the notebooks interactively using binder by clicking the following link:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/data-analysis-with-polars/HEAD)
+
+
 ### Docker
 I run the code using docker. If you have docker installed then you:
 - run the `deploy.sh` with bash as `./deploy.sh`
