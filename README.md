@@ -12,6 +12,10 @@ Want to know more about Polars for high performance data science and ML? Then yo
 
 ## Installation instructions
 
+### Binder
+I recommend cloning the repository and runnng the notebooks locally on your computer. However, you can run the notebooks interactively using binder by clicking the following link:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/data-analysis-with-polars/HEAD)
 
 
 ### Docker
@@ -37,7 +41,3 @@ I run the code using docker. If you have docker installed then you:
 - Run: `jupyter lab`
 - Check your installation by opening notebooks/TestInstallation.ipynb
 
-### Binder
-I recommend cloning the repository and runnng the notebooks locally on your computer. However, you can run the notebooks interactively using binder by clicking the following link:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/data-analysis-with-polars/HEAD)
