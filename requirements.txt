@@ -5,4 +5,5 @@ pyarrow
 ipython
 jupyterlab
 plotly
+matplotlib
 pandas
