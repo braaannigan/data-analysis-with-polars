@@ -2,7 +2,9 @@
 
 This repository contains public notebooks and datasets to accompany my Data Analysis with Polars course on Udemy.
 
-If you want to join me on the course **please use this referral link: https://www.udemy.com/course/data-analysis-with-polars/?referralCode=A29DCDA40D369080C05A**
+If you want to join me on the course **please use this referral link for a 50% discount: https://www.udemy.com/course/data-analysis-with-polars/?couponCode=POLARS_HALF_PRICE**
+
+
 
 Want to know more about Polars for high performance data science and ML? Then you can:
 - [follow me on twitter](https://twitter.com/braaannigan)
