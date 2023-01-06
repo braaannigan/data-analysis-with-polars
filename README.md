@@ -4,6 +4,15 @@ This repository contains public notebooks and datasets to accompany my Data Anal
 
 If you want to join me on the course **please use this referral link for a 50% discount: https://www.udemy.com/course/data-analysis-with-polars/?couponCode=POLARS_HALF_PRICE**
 
+## Notebooks
+- intro/00-KeyConcepts.ipynb - an introduction to the big ideas behind Polars
+- intro/02-LazyPolarsIntro.ipynb - an introduction to lazy mode in Polars
+
+- time_series/01-IntroTimeSeries.ipynb - the time series dtypes in Polars
+- time_series/02-TimeZones.ipynb - converting between time zones in Polars
+
+
+
 
 
 Want to know more about Polars for high performance data science and ML? Then you can:
