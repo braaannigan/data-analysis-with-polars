@@ -4,6 +4,8 @@ This repository contains public notebooks and datasets to accompany my Data Anal
 
 If you want to join me on the course **please use this referral link for a 50% discount: https://www.udemy.com/course/data-analysis-with-polars/?couponCode=POLARS_HALF_PRICE**
 
+For a general introduction to Polars see [this workshop I lead on youtube](https://www.youtube.com/watch?v=X69hWAWxTOI) and the workshop materials in the notebooks/ml directory of this repository.
+
 ## Notebooks
 ### Introduction
 - intro/00-KeyConcepts.ipynb - an introduction to the big ideas behind Polars
@@ -16,6 +18,8 @@ If you want to join me on the course **please use this referral link for a 50% d
 - time_series/01-IntroTimeSeries.ipynb - the time series dtypes in Polars
 - time_series/02-TimeZones.ipynb - converting between time zones in Polars
 
+### Machine learning
+- ml/CatboostElectricityForecasting.ipynb - introductory notebook with a simple example of using Polars with Catboost to forecast electricity demand
 
 
 
